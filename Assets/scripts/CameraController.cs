@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+//cameracontroller will move in the direction of the player!!
 public class CameraController : MonoBehaviour
 {
     public CharacterController thePlayer;
